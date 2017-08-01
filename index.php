@@ -5,7 +5,7 @@
     <title> Mulller Kris Raimund </title>  
    
   </head>
-  <body background="../Poze/bg.jpg" >
+  <body background="./Poze/bg.jpg" >
 
 	<div class="bt">
 		<div class="meniu">
@@ -20,7 +20,7 @@
 	</div>
 
    <div class="gif">
-   		<img src="../Poze/img.jpg"  style="width:400px;height:250px;">
+   		<img src="./Poze/img.jpg"  style="width:400px;height:250px;">
    </div> 
 
 <div class="info">
@@ -40,11 +40,11 @@
 
     <div class="pdf">
    		<div class="pdfbuton">
-   			<img src="../Poze/pdf.jpg" style="width:14px;height:12px;"> &nbsp;
+   			<img src="./Poze/pdf.jpg" style="width:14px;height:12px;"> &nbsp;
    			<a title="Download PDF Resume" href="../Text/cv.pdf" class="linkbuton" target="_blank">Download PDF</a>
     	</div>
     	<div class="pdfbuton">
-    		<img src="../Poze/in.jpg" style="width:14px;height:12px;"> &nbsp;
+    		<img src="./Poze/in.jpg" style="width:14px;height:12px;"> &nbsp;
     		<a href="https://www.linkedin.com/in/kris-muller-87260011b" class="linkbuton" target="_blank">LinkedIn</a>
     	</div>
     </div>
